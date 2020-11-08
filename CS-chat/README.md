@@ -11,6 +11,9 @@
 
 ## 效果展示
 
+
+#### 本地展示效果
 ![本地展示](https://skyqin1999.oss-cn-beijing.aliyuncs.com/Github/C-something/CS-chat/20201108.png)
 
-
+#### 异地展示效果
+![联网](https://skyqin1999.oss-cn-beijing.aliyuncs.com/Github/C-something/CS-chat/20201108-1.png)
